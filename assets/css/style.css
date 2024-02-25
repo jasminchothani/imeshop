@@ -1,0 +1,206 @@
+@font-face {
+    font-family: popins;
+    src: url("../font-style/Poppins-Regular.otf");
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: popins;
+    font-style: normal;
+}
+
+.navbar-nav .nav-link.active {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #877F7F;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.btn-buy {
+    border-radius: 30px;
+    background: #09BB8C;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+/* section 1 */
+.daily-use {
+    color: #FE9805;
+}
+
+.hero-right-bg {
+    background-image: url("../images/star.png");
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+}
+
+.right-step-img {
+    background-image: url("../images/step.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    margin-top: -2rem;
+    position: relative;
+    z-index: 1;
+    left: -20px;
+    max-width: 100%;
+}
+
+.li-text {
+    color: #877F7F;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* 1 over */
+
+/* 2 start */
+.take-our {
+    color: #09BB8C;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.there-are {
+    color: #877F7F;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.card-custome {
+    border-radius: 18px;
+    background: #FFF;
+    box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.15);
+}
+
+.cardimg-top {
+    border-radius: 15px;
+    background: #F4F7FF;
+    max-height: 240px;
+}
+
+.card-titles {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card-number-text {
+    color: #FE9805;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.rating-number {
+    color: #877F7F;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.btn-buy-card {
+    color: #09BB8C;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 30px;
+    border: 1px solid #09BB8C;
+}
+
+/* 2 over */
+
+/* 3 start */
+.common-title {
+    color: #000;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.btn-buy-discount {
+    border-radius: 30px;
+    background: #FE9805;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.10);
+    color: #fff;
+}
+
+.card-discount {
+    border-radius: 8px;
+    background: #E3E8F6;
+}
+
+.card-titles-discount {
+    color: #09BB8C;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* 3 over */
+
+/* 4 start */
+.circle-gray {
+    color: #D9D9D9;
+}
+
+.circle-red {
+    color: #4F4E4E;
+    border: 3px solid #01C28C;
+    border-radius: 50%;
+}
+
+.circle-blue {
+    color: #0E2060;
+}
+
+/* 4 over */
+
+/* 6 start */
+.card-acordian {
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.08);
+}
+
+/* .card:hover {
+    background-color: #eee;
+} */
+
+.ratings i {
+    color: orange;
+}
+
+.testimonial-list {
+    list-style: none;
+}
+
+.testimonial-list li {
+    margin-bottom: 20px;
+}
+
+.testimonials-margin {
+    margin-top: -19px;
+}
+
+/* 6 over */
+
+/* footer */
+.time-shop {
+    color: #000;
+    font-size: 20px;
+}
+
+.lifoter {
+    color: #31434D;
+    font-size: 16px;
+    font-weight: 400;
+}
+.icon-clr{
+    color: #31434D;
+}
